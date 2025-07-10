@@ -29,3 +29,19 @@ A full-stack e-commerce website built using **Node.js**, **Express.js**, **Mongo
 - View all users and orders
 - Manage inventory
 - Secure login for admin access
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js
+- MongoDB (local or Atlas)
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/ecommerce-platform.git
+cd ecommerce-platform
+npm install
+
+to run the app- npm start

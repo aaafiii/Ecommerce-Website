@@ -7,10 +7,9 @@ A full-stack e-commerce website built using **Node.js**, **Express.js**, **Mongo
 - **Backend**: Node.js, Express.js
 - **Frontend**: HTML, CSS, JavaScript, AJAX
 - **Database**: MongoDB (with Mongoose)
-- **Templating Engine**: EJS
+- **Templating Engine**: HBS
 - **Authentication**: express-session, bcrypt
-- **Payment Gateway**: (Specify if using Razorpay, Stripe, etc.)
-- **Other**: Multer (for image uploads), dotenv, method-override, etc.
+- **Payment Gateway**: Razorpay
 
 
 # ✨ Features
@@ -40,7 +39,7 @@ A full-stack e-commerce website built using **Node.js**, **Express.js**, **Mongo
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-platform.git
+git clone https://github.com/aaafiii/ecommerce-platform.git
 cd ecommerce-platform
 npm install
 
